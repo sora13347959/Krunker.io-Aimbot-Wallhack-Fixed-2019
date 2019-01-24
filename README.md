@@ -1,4 +1,4 @@
-# Krunker.io-AImbot
+# Krunker.io-Aimbot
 SINCE NOBODY SEEMS TO FIX THE LATEST KRUNKER ISSUE OF 2019, I WILL FIX IT, FOLLOW THE BELOW STEPS TO GET IT!!!
 
 Requirements: Tampermonkey and The script it self
