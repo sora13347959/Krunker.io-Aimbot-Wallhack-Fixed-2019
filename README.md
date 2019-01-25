@@ -3,7 +3,7 @@ SINCE NOBODY SEEMS TO FIX THE LATEST KRUNKER ISSUE OF 2019, I WILL FIX IT, FOLLO
 
 Requirements: Tampermonkey and The script it self
 
-How to install : PRESS ON THE FIRST KRUNKER FILE that says krunker.io hacks (no need to intall zip) , OPEN TAMPERMONKEY, CREATE NEW SCRIPT, COPY AND PASTE WHAT'S ON THAT FILE TO THAT NEW SCRIPT IN TAMPERMONKEY, SAVE THE FILE, OPEN KRUNKER.IO, HAVE FUN!!!
+How to install : Intall as zip, open krunker hack .js file, copy , OPEN TAMPERMONKEY, Press the + icon on the top to add script, Delete what automatically comes up in tampermonkey when you press the add (+) button. PASTE WHAT'S ON the krunker hacks .js FILE TO the new SCRIPT IN TAMPERMONKEY, SAVE THE FILE, OPEN KRUNKER.IO, HAVE FUN!!!
 
 Always look when you search up krunker.io aimbot, the last update of any file, because another user might have a old patched hack.
 Mine so far is the newest 2019 fix of krunker.io aimbot and it now works with the krunker version that says 'advertise' on the bottom left.
