@@ -5,6 +5,8 @@ Verison 5.7, UPDATES FEB 6 2019
 
 SINCE NOBODY SEEMS TO FIX THE LATEST KRUNKER ISSUE OF 2019, I WILL FIX IT, FOLLOW THE BELOW STEPS TO GET IT!!!
 
+PLEASE STAR THIS RESPOSITORY
+
 # Instructions
 
 Requirements: Tampermonkey and The script it self
@@ -28,5 +30,3 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 # Optional if you really like this script:
 
 If it works please be kind and sub to my youtube channel ! : https://www.youtube.com/channel/UCgWXLVEmVMnX6c26jz0ueJg
-
-#
