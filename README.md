@@ -1,6 +1,6 @@
 # Krunker.io-Aimbot, Wallhack, Speedhack, Faster heal, faster rate of fire, ESP, Aim through walls, Bhop hack, and much much much much much more!!!
 
-# VERSION AND UPDATED DATE
+# UPDATED : February 6th 2019
 Verison 5.7, UPDATES FEB 6 2019
 
 SINCE NOBODY SEEMS TO FIX THE LATEST KRUNKER ISSUE OF 2019, I WILL FIX IT, FOLLOW THE BELOW STEPS TO GET IT!!!
