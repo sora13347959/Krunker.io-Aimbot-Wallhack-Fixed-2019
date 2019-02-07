@@ -5,10 +5,11 @@ The hack menu will not apear until you press 'click to play' and a popup will op
 
 # UPDATED : February 6th 2019
 Verison 5.7, UPDATES FEB 6 2019
+This repository updates every time the hack seems to stop working or a krunker update.
 
 SINCE NOBODY SEEMS TO FIX THE LATEST KRUNKER ISSUE OF 2019, I WILL FIX IT, FOLLOW THE BELOW STEPS TO GET IT!!!
 
-PLEASE STAR THIS RESPOSITORY
+PLEASE STAR THIS REPOSITORY!!! Updates are released after every krunker update.
 
 # Instructions
 
