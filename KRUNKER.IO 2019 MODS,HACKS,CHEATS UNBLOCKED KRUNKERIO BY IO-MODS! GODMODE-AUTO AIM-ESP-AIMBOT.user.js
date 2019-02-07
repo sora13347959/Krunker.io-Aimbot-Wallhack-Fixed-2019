@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Krunker.io aimbot, wallhack, 2019 fixed, and more!!!
 // @namespace    -
-// @version     5.7
+// @version     5.7.1
 // @description  Currently trusted by over 100,000 users!
 // @author       RayanAlami
 // @match        *://krunker.io/*
