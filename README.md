@@ -1,7 +1,7 @@
 # Krunker.io Aimbot, Wallhack, Speedhack, Faster heal, faster rate of fire, ESP, Aim through walls, Bhop hack, and much much much much much more!!!
 
-# NOTICE
-The hack menu will not apear until you press 'click to play' and a popup will open for the settings, do not quit the pop-up as for now it is the only way to control the hack, soon this extension will also support moomoo.io as both games are made by the same developer
+# IMPORTANT FOR THE HACK MENU
+The hack menu will not apear until you press 'click to play' and a popup will open for the settings, do not quit the pop-up as for now it is the only way to control the hack, soon this extension will also support moomoo.io as both games are made by the same developer and this will turn into a double compatible extension.
 
 # UPDATED : February 6th 2019
 Verison 5.7, UPDATES FEB 6 2019
