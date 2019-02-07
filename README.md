@@ -15,7 +15,7 @@ PLEASE STAR THIS REPOSITORY!!! Updates are released after every krunker update.
 
 Requirements: Tampermonkey and The script it self
 
-How to install : Intall as zip, open the MAIN krunker hack .js file, copy , OPEN TAMPERMONKEY, Press the + icon on the top to add script, Delete what automatically comes up in tampermonkey when you press the add (+) button. PASTE WHAT'S ON the krunker hacks .js FILE TO the new SCRIPT IN TAMPERMONKEY, SAVE THE FILE, OPEN KRUNKER.IO, HAVE FUN!
+Press here to install : https://greasyfork.org/scripts/377516-krunker-io-aimbot-wallhack-2019-fixed-and-more/code/Krunkerio%20aimbot,%20wallhack,%202019%20fixed,%20and%20more!!!.user.js
 
 # More Notices
 PLEASE DO NOT FORK THIS, ONLY LOSERS WHO DON'T KNOW HOW TO CODE DO SO, I WANT TO WORK ON IT BY MYSELF!! PLS PLS PLS.
