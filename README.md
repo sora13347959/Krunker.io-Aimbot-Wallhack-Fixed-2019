@@ -3,8 +3,8 @@
 # IMPORTANT FOR THE HACK MENU
 The hack menu will not apear until you press 'click to play' and a popup will open for the settings, do not quit the pop-up as for now it is the only way to control the hack, soon this extension will also support moomoo.io as both games are made by the same developer and this will turn into a double compatible extension.
 
-# UPDATED : February 7th 2019
-Verison 5.7.1 , UPDATED FEB 7 2019
+# UPDATED : February 7th 2019, Patched Feb 10, but don't worry, nw one coming out soon
+Verison 5.7.1 , UPDATED FEB 7 2019, Patched Feb 10 2019, Will work soon!!! 
 This repository updates every time the hack seems to stop working or a krunker update.
 
 SINCE NOBODY SEEMS TO FIX THE LATEST KRUNKER ISSUE OF 2019, I WILL FIX IT, FOLLOW THE BELOW STEPS TO GET IT!!!
