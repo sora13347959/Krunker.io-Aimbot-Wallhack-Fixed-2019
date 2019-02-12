@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name        Krunker.io aimbot, wallhack, 2019 fixed, and more!!!
+// @name        Krunker.io Aimbot, Wallahck and more!! 2019 fixed!!! [Krunker.io]
 // @namespace    -
-// @version     5.7.1
-// @description  Currently trusted by over 100,000 users!
+// @version      6.0
+// @description  Best hack of 2019
 // @author       RayanAlami
 // @match        *://krunker.io/*
-// @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|party)=.+)$/
+// @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|game)=.+)$/
 // @grant        GM_xmlhttpRequest
 // @require https://greasyfork.org/scripts/368273-msgpack/code/msgpack.js?version=598723
 // @require http://code.jquery.com/jquery-3.3.1.min.js
@@ -3096,7 +3096,7 @@ GM_xmlhttpRequest({
             url: document.location.origin,
             onload: inRes => {
                 let dbody = inRes.responseText;
-                newBody = dbody.replace(/<script src="js\/game\.js\?build=.+"><\/script>/g, `<script src="https://cdn.jsdelivr.net/gh/Sam-DevZ/io-games/gamenew.js"></script><script type="text/plain" src="js/game.js?build=fL02f"></script>`);
+                newBody = dbody.replace(/<script src="js\/game\.js\?build=.+"><\/script>/g, `<script src="https://cdn.jsdelivr.net/gh/Sam-DevZ/io-games/gamefinal.js"></script><script type="text/plain" src="js/game.js?build=fL02f"></script>`);
                 document.open();
                 document.write(newBody);
                 document.close();
@@ -3742,3 +3742,4 @@ setTimeout( () => {
 
 
 }
+
