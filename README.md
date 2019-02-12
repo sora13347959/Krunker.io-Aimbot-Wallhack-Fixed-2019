@@ -1,10 +1,7 @@
 # Krunker.io Aimbot, Wallhack, Speedhack, Faster heal, faster rate of fire, ESP, Aim through walls, Bhop hack, and much much much much much more!!!
 
-# IMPORTANT FOR THE HACK MENU
-The hack menu will not apear until you press 'click to play' and a popup will open for the settings, do not quit the pop-up as for now it is the only way to control the hack, soon this extension will also support moomoo.io as both games are made by the same developer and this will turn into a double compatible extension.
-
-# UPDATED : February 7th 2019, Patched Feb 10, but don't worry, new one coming out soon
-Verison 5.7.1 , UPDATED FEB 7 2019, Patched Feb 10 2019, Will work soon!!! 
+# UPDATED : February 12th 2019, Now working!!!
+Verison 6.0 , UPDATED FEB 12 2019.
 This repository updates every time the hack seems to stop working or a krunker update.
 
 SINCE NOBODY SEEMS TO FIX THE LATEST KRUNKER ISSUE OF 2019, I WILL FIX IT, FOLLOW THE BELOW STEPS TO GET IT!!!
@@ -16,6 +13,9 @@ PLEASE STAR THIS REPOSITORY!!! Updates are released after every krunker update.
 Requirements: Tampermonkey and The script it self
 
 Press here to install : https://greasyfork.org/scripts/377516-krunker-io-aimbot-wallhack-2019-fixed-and-more/code/Krunkerio%20aimbot,%20wallhack,%202019%20fixed,%20and%20more!!!.user.js
+
+# IMPORTANT FOR THE HACK MENU
+The hack menu will not apear until you press 'click to play' and a popup will open for the settings, do not quit the pop-up as for now it is the only way to control the hack, soon this extension will also support moomoo.io as both games are made by the same developer and this will turn into a double compatible extension.
 
 # More Notices
 PLEASE DO NOT FORK THIS, ONLY LOSERS WHO DON'T KNOW HOW TO CODE DO SO, I WANT TO WORK ON IT BY MYSELF!! PLS PLS PLS.
