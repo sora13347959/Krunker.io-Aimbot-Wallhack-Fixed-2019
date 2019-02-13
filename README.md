@@ -10,7 +10,7 @@ PLEASE STAR THIS REPOSITORY!!! Updates are released after every krunker update.
 
 # Instructions
 
-Requirements: Tampermonkey
+###### Requirements: Tampermonkey
 Download Tampermonkey from the chrome web store and then press on the link below to install the script.
 
 Press here to install : https://greasyfork.org/scripts/377516-krunker-io-aimbot-wallhack-2019-fixed-and-more/code/Krunkerio%20aimbot,%20wallhack,%202019%20fixed,%20and%20more!!!.user.js
