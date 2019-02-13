@@ -50,11 +50,13 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 ###### Aimbot aiming more for headshots
 
 ## V6.0, Updated Feb 12 2019
-Fixed issue of the loading screen stays forever , Aimbot now aims more for heads, Main menu now appears before you click to play, Some bugs fixed
+###### Fixed issue of the loading screen stays forever
+###### Aimbot now aims more for heads
+###### Main menu now appears before you click to play, Some bugs fixed
 
 ## V5.90, Updated Feb 5 2019
-Quicker speed, Some bugs fixed.
-
+###### Quicker speed, 
+###### Some bugs fixed
 
 
 # Optional if you really like this script:
