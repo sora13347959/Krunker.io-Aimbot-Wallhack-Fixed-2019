@@ -1,6 +1,6 @@
 # Krunker.io Aimbot, Wallhack, Speedhack, Faster heal, faster rate of fire, ESP, Aim through walls, Bhop hack, and much much much much much more!!! 
 
-#### V6.0, Updated Feb 12 2019
+#### V6.0.1, Updated Feb 13 2019
 
 This repository updates every time the hack seems to stop working or a krunker update.
 
@@ -44,6 +44,11 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 (Krunker.io aimbot FIXED 2019 problem, you can now use aimbot, wallhack, Bhop, ESP and much more)
 
 # Changelog
+## V6.0.1, Updated Feb 13 2019
+###### Fixed third person issue where third person mode would stay first person when using the hack
+###### Some bugs fixed
+###### Aimbot aiming more for headshots
+
 ## V6.0, Updated Feb 12 2019
 Fixed issue of the loading screen stays forever , Aimbot now aims more for heads, Main menu now appears before you click to play, Some bugs fixed
 
