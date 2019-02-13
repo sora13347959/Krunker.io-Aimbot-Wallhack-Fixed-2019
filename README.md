@@ -35,13 +35,13 @@ If the script given does not work anymore, please wait for a new one to be relea
 
 
 # More info
-
-Always look when you search up krunker.io aimbot, the latest update of any file, because another user might have a old patched hack. Mine so far is the newest 2019 fix of krunker.io aimbot and it now works with the krunker version that says 'spectate' on the bottom right.
+Press on 'watch' next to 'star' on the top to always be notified of latest hacks and updates
 
 If it dosen't work, I am still trying my hardest to bypass krunker code, so please be patient!
 
 (Krunker.io Fixed 2019 aimbot, wallhack, Bhop, ESP and more!)
 (Krunker.io aimbot FIXED 2019 problem, you can now use aimbot, wallhack, Bhop, ESP and much more)
+
 
 # Changelog
 ## V6.0.1, Updated Feb 13 2019
