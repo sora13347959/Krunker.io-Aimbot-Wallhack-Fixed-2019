@@ -12,6 +12,7 @@ PLEASE STAR THIS REPOSITORY!!! Updates are released after every krunker update.
 
 ###### Requirements: Tampermonkey
 Download Tampermonkey from the chrome web store and then press on the link below to install the script.
+Do not press the install button if you do not have Tampermonkey extension.
 
 Press here to install : https://greasyfork.org/scripts/377516-krunker-io-aimbot-wallhack-2019-fixed-and-more/code/Krunkerio%20aimbot,%20wallhack,%202019%20fixed,%20and%20more!!!.user.js
 
@@ -48,6 +49,9 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 ###### Fixed third person issue where third person mode would stay first person when using the hack
 ###### Some bugs fixed
 ###### Aimbot aiming more for headshots
+###### New section in repository : RayanAlami Electronic News
+###### New Changelog Section
+###### Easier instructions when downloading and loaidng the script
 ###### Higher change of quickscope with Sniper/semi-auto
 
 ## V6.0, Updated Feb 12 2019
