@@ -67,7 +67,7 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 
 
 
-# RayanAlami News
+# RayanAlami News (Latest Electronic News form the World and Developer)
 #### New Krunker Update now supports third-person mode on private servers!
 #### New Galaxy s10 to be released to public Feb 20 2019!
 #### Airpods 2 matt black leaks are now available, Search Airpods 2 leaks on you search bar!
