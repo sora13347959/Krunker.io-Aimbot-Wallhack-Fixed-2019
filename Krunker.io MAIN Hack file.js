@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name        Krunker.io Aimbot, Wallahck and more!! 2019 fixed!!! [Krunker.io]
 // @namespace    -
-// @version      6.0
-// @description  Best hack of 2019
+// @UpdateUrl    https://github.com/RayanAlami/Krunker.io-Aimbot-Wallhack-Fixed-2019
+// @version      6.0.1
+// @description  Currently trusted by over 100,000 users!
 // @author       RayanAlami
-// @match        *://krunker.io/*
+// @match        *https://krunker.io/*
+// @match        *http://krunker.io/*
+// @match        *://Krunker.io/*
 // @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|game)=.+)$/
 // @grant        GM_xmlhttpRequest
 // @require https://greasyfork.org/scripts/368273-msgpack/code/msgpack.js?version=598723
@@ -3742,4 +3745,3 @@ setTimeout( () => {
 
 
 }
-
