@@ -62,5 +62,5 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 
 # Optional if you really like this script:
 
-###### If it works please be kind and sub to my youtube channel ! : https://www.youtube.com/channel/UCgWXLVEmVMnX6c26jz0ueJg
-###### Check out my other scripts by pressing on my author username on the top of the page!!!
+##### If it works please be kind and sub to my youtube channel ! : https://www.youtube.com/channel/UCgWXLVEmVMnX6c26jz0ueJg
+##### Check out my other scripts by pressing on my author username on the top of the page!!!
