@@ -44,10 +44,11 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 
 
 # Changelog
-## V6.0.1, Updated Feb 13 2019
+## V6.0.1, Updated Feb 14 2019
 ###### Fixed third person issue where third person mode would stay first person when using the hack
 ###### Some bugs fixed
 ###### Aimbot aiming more for headshots
+###### Higher change of quickscope with Sniper/semi-auto
 
 ## V6.0, Updated Feb 12 2019
 ###### Fixed issue of the loading screen stays forever
