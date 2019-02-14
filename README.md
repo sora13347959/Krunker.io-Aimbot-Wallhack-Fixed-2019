@@ -2,7 +2,7 @@
 
 #### V6.0.1, Updated Feb 14 2019
 
-This repository updates every time the hack seems to stop working or a krunker update.
+##### Please Scroll down and read/skim through everything! (Following me and starring this repository would be helpful)
 
 SINCE NOBODY SEEMS TO FIX THE LATEST KRUNKER ISSUE OF 2019, I WILL FIX IT, FOLLOW THE BELOW STEPS TO GET IT!!!
 
