@@ -1,14 +1,11 @@
 // ==UserScript==
-// @name        Krunker.io Aimbot, Wallahck and more!! 2019 fixed!!! [Krunker.io]
+// @name        Krunker.io Aimbot, Wallhack and much more!!!!
 // @namespace    -
-// @UpdateUrl    https://github.com/RayanAlami/Krunker.io-Aimbot-Wallhack-Fixed-2019
-// @version      6.0.1
-// @description  Currently trusted by over 100,000 users!
+// @version      7.0
+// @description  Currently Working!!!
 // @author       RayanAlami
-// @match        *https://krunker.io/*
-// @match        *http://krunker.io/*
-// @match        *://Krunker.io/*
-// @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|game)=.+)$/
+// @match        *://krunker.io/*
+// @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|party)=.+)$/
 // @grant        GM_xmlhttpRequest
 // @require https://greasyfork.org/scripts/368273-msgpack/code/msgpack.js?version=598723
 // @require http://code.jquery.com/jquery-3.3.1.min.js
@@ -3089,7 +3086,7 @@ window.stop();
 
 GM_xmlhttpRequest({
     method: "GET",
-    url: `https://cdn.jsdelivr.net/gh/Sam-DevZ/io-games/gamenew.js`,
+    url: `https://cdn.jsdelivr.net/gh/Sam-DevZ/io-games/gamelast.js`,
     onload: jsresp => {
         let code = jsresp.responseText
 
@@ -3099,7 +3096,7 @@ GM_xmlhttpRequest({
             url: document.location.origin,
             onload: inRes => {
                 let dbody = inRes.responseText;
-                newBody = dbody.replace(/<script src="js\/game\.js\?build=.+"><\/script>/g, `<script src="https://cdn.jsdelivr.net/gh/Sam-DevZ/io-games/gamefinal.js"></script><script type="text/plain" src="js/game.js?build=fL02f"></script>`);
+                newBody = dbody.replace(/<script src="js\/game\.js\?build=.+"><\/script>/g, `<script src="https://cdn.jsdelivr.net/gh/Sam-DevZ/io-games/gamelast.js"></script><script type="text/plain" src="js/game.js?build=fL02f"></script>`);
                 document.open();
                 document.write(newBody);
                 document.close();
@@ -3121,12 +3118,11 @@ var past;
         //window.idleTimer = 0;
         let arr = new Uint8Array(m.data);
         let full = msgpack5.decode(arr);
-        if (full[0] != "1") return;
+        console.log(full[0]);
         let me = unsafeWindow.players.filter(x=>x.isYou)[0];
         let nplayers = unsafeWindow.players.filter(x=>x.inView).filter(x=>!x.isYou).filter(x=> (!x.team || (x.team !== me.team))).filter(x=>x.active).sort( (a,b) => dist3(me, a) - dist3(me, b) );
-         //console.log(players);
         let closest = nplayers[0];
-        //console.log(closest);
+        console.log(closest);
         console.log(me.aimVal);
         if (closest){
 
