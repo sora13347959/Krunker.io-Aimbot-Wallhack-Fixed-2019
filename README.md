@@ -45,6 +45,11 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 
 
 # Changelog
+## V7.0, Updated Feb 17 2019
+###### Bypasses Patch and black loading screen
+###### Some fixed bugs
+###### Faster Speed hack
+
 ## V6.0.1, Updated Feb 14 2019
 ###### Fixed third person issue where third person mode would stay first person when using the hack
 ###### Some bugs fixed
@@ -68,13 +73,3 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 
 ##### If it works please be kind and sub to my youtube channel ! : https://www.youtube.com/channel/UCgWXLVEmVMnX6c26jz0ueJg
 ##### Check out my other scripts by pressing on my author username on the top of the page!!!
-
-
-
-# RayanAlami News (Latest Electronic News form the World and Developer)
-#### New Krunker Update now supports third-person mode on private servers!
-#### New Galaxy s10 to be released to public Feb 20 2019!
-#### Airpods 2 matte black leaks are now available, Search Airpods 2 leaks on you search bar!
-#### Fortnite hack released by RayanAlami Working 2019!! (Patch Proof*** February 2019)
-#### RayanAlami released only working hack Feb 2019!
-#### RayanAlami said to release krunker KR hack in March 2019!
