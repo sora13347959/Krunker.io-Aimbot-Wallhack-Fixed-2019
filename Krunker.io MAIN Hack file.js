@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        Krunker.io Aimbot, Wallhack and much more!!!!
 // @namespace    -
-// @version      7.0
+// @version      7.0.1
 // @description  Currently Working!!!
 // @author       RayanAlami
 // @match        *://krunker.io/*
-// @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|party)=.+)$/
+// @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|game)=.+)$/
 // @grant        GM_xmlhttpRequest
 // @require https://greasyfork.org/scripts/368273-msgpack/code/msgpack.js?version=598723
 // @require http://code.jquery.com/jquery-3.3.1.min.js
@@ -16,7 +16,7 @@
 
 var msgpack5 = msgpack;
 
-if (window.location.href.includes("moomoo")){
+if (window.location.href.includes("Krunker")){
     $(document).ready(() => {
 
 //Neat cursor: credit to FlareZ 3301#6016
