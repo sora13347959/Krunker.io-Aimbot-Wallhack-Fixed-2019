@@ -6,7 +6,7 @@
 
 SINCE NOBODY SEEMS TO FIX THE LATEST KRUNKER ISSUE OF 2019, I WILL FIX IT, FOLLOW THE BELOW STEPS TO GET IT!!!
 
-PLEASE STAR THIS REPOSITORY!!! Updates are released after every krunker update.
+PLEASE STAR THIS REPOSITORY!!! Updates are released after every krunker update or improvements to be intergrated
 
 # Instructions
 
