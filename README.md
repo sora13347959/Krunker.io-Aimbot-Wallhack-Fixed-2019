@@ -26,12 +26,13 @@ If the script given does not work anymore, please wait for a new one to be relea
 
 # Future hacks
 #### 360 points even if no 360 if made (Release date not yet confirmed)
-#### KR hack / KR generator (To be released March 2019)
+#### KR hack (To be released March 2019)
 #### Glitch hacks (To be released March 2019)
 #### Triple instead of double speed (To be released March 2019)
 #### Skins hacks* (To be released April 2019)
 #### PATCH PROOF*** (To be released April 2019)
-#### Nuke after each kill (To be released April 2019)
+#### Nuke after each kill* (To be released April 2019)
+#### Disables people in your server from having hacks so you are the only one who has them (To be Released April 2019)
 ##### More coming soon!!!
 
 
