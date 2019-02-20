@@ -49,6 +49,7 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 ###### Supports Updated Burg Map
 ###### Better Aimbot
 ###### Revolver problem fixed
+###### All hack files were updated to give you better hacks and experience!
 
 ## V7.0, Updated Feb 17 2019
 ###### Bypasses Patch and black loading screen
