@@ -1,6 +1,6 @@
 # Krunker.io Aimbot, Wallhack, Speedhack, Faster heal, faster rate of fire, ESP, Aim through walls, Bhop hack, and much much much much much more!!! 
 
-#### V7.0, Updated Feb 17 2019
+#### V7.0.1, Updated Feb 20 2019
 
 ##### Please Scroll down and read/skim through everything! (Following me and starring this repository would be helpful)
 
@@ -45,6 +45,11 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 
 
 # Changelog
+## V7.0.1, Updated Feb 20 2019
+###### Supports Updated Burg Map
+###### Better Aimbot
+###### Revolver problem fixed
+
 ## V7.0, Updated Feb 17 2019
 ###### Bypasses Patch and black loading screen
 ###### Some fixed bugs
