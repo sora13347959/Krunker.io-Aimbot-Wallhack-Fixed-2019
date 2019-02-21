@@ -1,6 +1,6 @@
-# Krunker.io Hack Beta V7.0.1
+# Krunker.io Hack Beta V7.2.0
 
-#### Beta V7.0.1, Updated Feb 21 2019
+#### Beta V7.2.0, Updated Feb 21 2019
 
 ##### Please Scroll down and read/skim through everything! (Following me and starring this repository would be helpful)
 
@@ -47,10 +47,19 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 
 
 # Changelog
+## V7.2.0, Updated Feb 21 2019
+###### Advanced Sniper settings
+###### Advanced hack menu
+###### Shotgun and Sniper Rifle have better aim
+###### Even Better Aimbot
+###### Bugs Fixed
+###### Less lag when using script
+
 ## V7.0.1, Updated Feb 20 2019
 ###### Supports Updated Burg Map
 ###### Better Aimbot
 ###### Revolver problem fixed
+###### Semi Auto problem fixed
 ###### All hack files were updated to give you better hacks and experience!
 
 ## V7.0, Updated Feb 17 2019
