@@ -19,7 +19,7 @@ var msgpack5 = msgpack;
 if (window.location.href.includes("Krunker")){
     $(document).ready(() => {
 
-//Neat cursor: credit to FlareZ 3301#6016
+//Neat cursor: credit to RayanAlami 3301#6016
 $("#gameCanvas").css('cursor', 'url(http://cur.cursors-4u.net/user/use-1/use153.cur), default');
 $("#consentBlock").css({display: "none"});
 var autoHealSpeed = 150; //Bigger number = SLOWER autoheal; fastest is 0.
