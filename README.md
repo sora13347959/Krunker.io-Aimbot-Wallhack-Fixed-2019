@@ -85,11 +85,6 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 ###### Quicker speed, 
 ###### Some bugs fixed
 
-## (v1.0, first version made January 2)
-###### First version
-###### 
-
-
 # Optional if you really like this script:
 
 ##### If it works please be kind and sub to my youtube channel ! : https://www.youtube.com/channel/UCgWXLVEmVMnX6c26jz0ueJg
