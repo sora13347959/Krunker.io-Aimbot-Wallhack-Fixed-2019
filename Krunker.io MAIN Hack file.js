@@ -2,7 +2,7 @@
 // @name        Krunker.io Aimbot, Wallhack and much more!!!!
 // @namespace    -
 // @version      7.0.1
-// @description  Currently Working!!!
+// @description  Best 2019 hack of krunker.io! Enjoy!!!
 // @author       RayanAlami
 // @match        *://krunker.io/*
 // @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|game)=.+)$/
