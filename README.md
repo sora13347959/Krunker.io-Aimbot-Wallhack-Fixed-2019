@@ -1,6 +1,6 @@
 # Krunker.io Hack Beta V7.0.1
 
-#### V7.0.1, Updated Feb 20 2019
+#### Beta V7.0.1, Updated Feb 20 2019
 
 ##### Please Scroll down and read/skim through everything! (Following me and starring this repository would be helpful)
 
@@ -33,6 +33,7 @@ If the script given does not work anymore, please wait for a new one to be relea
 #### PATCH PROOF*** (To be released April 2019)
 #### Nuke after each kill* (To be released April 2019)
 #### Disables people in your server from having hacks so you are the only one who has them (To be Released April 2019)
+#### Stable and Beta versions will be soon so if that one hack is patched, you can use the other one while its fixed (April 2019)
 ##### More coming soon!!!
 
 
