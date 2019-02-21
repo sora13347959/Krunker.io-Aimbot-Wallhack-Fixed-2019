@@ -76,6 +76,8 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 ###### Quicker speed, 
 ###### Some bugs fixed
 
+### (v1.0, first version made January 2)
+
 
 # Optional if you really like this script:
 
