@@ -1,6 +1,6 @@
 # Krunker.io Hack Beta V7.0.1
 
-#### Beta V7.0.1, Updated Feb 20 2019
+#### Beta V7.0.1, Updated Feb 21 2019
 
 ##### Please Scroll down and read/skim through everything! (Following me and starring this repository would be helpful)
 
