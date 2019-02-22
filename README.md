@@ -2,7 +2,7 @@
 
 #### Beta V7.2.0, Updated Feb 21 2019
 
-##### Please Scroll down and read/skim through everything! (Following me and starring this repository would be helpful)
+##### Please Scroll down and read through almost everything! (Following me and starring this repository would be helpful)
 
 SINCE NOBODY SEEMS TO FIX THE LATEST KRUNKER ISSUE OF 2019, I WILL FIX IT, FOLLOW THE BELOW STEPS TO GET IT!!!
 
