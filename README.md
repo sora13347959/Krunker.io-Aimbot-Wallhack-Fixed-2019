@@ -17,7 +17,7 @@ Do not press the install button if you do not have Tampermonkey extension.
 Press here to install : https://greasyfork.org/scripts/377516-krunker-io-aimbot-wallhack-2019-fixed-and-more/code/Krunkerio%20aimbot,%20wallhack,%202019%20fixed,%20and%20more!!!.user.js
 
 # IMPORTANT FOR THE HACK MENU
-The hack menu will not apear until you press 'click to play' and a popup will open for the settings, do not quit the pop-up as for now it is the only way to control the hack, soon this extension will also support moomoo.io as both games are made by the same developer and this will turn into a double compatible extension.
+The hack menu will not apear until you press 'click to play' and a popup will open for the settings, do not quit the pop-up as for now it is the only way to control the hack, soon this extension will also support moomoo.io as both games are made by the same developer and this will turn into a double compatible extension. If the hack menu doesn't work then please tel me this in The issues tab. 
 
 # More Notices
 PLEASE DO NOT FORK THIS, ONLY LOSERS WHO DON'T KNOW HOW TO CODE DO SO, I WANT TO WORK ON IT BY MYSELF!! PLS PLS PLS.
