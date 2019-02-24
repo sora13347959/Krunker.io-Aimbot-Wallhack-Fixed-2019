@@ -53,7 +53,7 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 ###### Faster Speed when field of view is set on highest
 ###### New Patch proof Beta will keep you from getting banned and will bypass most new versions of krunker.
 ###### Some Bugs fixed
-###### SUpports latest version of krunker
+###### Supports latest version of krunker
 ###### Also, Please check every few days for a new version as it might be better and fixes bugs or patch.
 
 ## V7.2.0, Updated Feb 21 2019, Supports Krunker V1.0.7
