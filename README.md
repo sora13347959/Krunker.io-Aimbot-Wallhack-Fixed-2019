@@ -2,9 +2,7 @@
 
 #### Beta V7.5.0, Updated Feb 24 2019
 
-##### Please Scroll down and read through almost everything! (Following me and starring this repository would be helpful)
-
-SINCE NOBODY SEEMS TO FIX THE LATEST KRUNKER ISSUE OF 2019, I WILL FIX IT, FOLLOW THE BELOW STEPS TO GET IT!!!
+##### Please Scroll down and read through everything! (Following me and starring this repository would be helpful)
 
 PLEASE STAR THIS REPOSITORY!!! Updates are released after every krunker update or improvements to be intergrated
 
@@ -25,13 +23,14 @@ PLEASE DO NOT FORK THIS, ONLY LOSERS WHO DON'T KNOW HOW TO CODE DO SO, I WANT TO
 If the script given does not work anymore, please wait for a new one to be released and to get the latest updates, Press watch next to the star button and press watching to be notified of the latest krunker.io hack updates.
 
 # Future hacks
+#### One-shot Kill (Release date not confirmed yet)
 #### Flying - Tricking the spectate system to fly very fast in the sky** (Release Date not confirmed yet)
 #### 360 points even if no 360 if made (Release date not yet confirmed)
 #### KR hack (To be released March 2019)
 #### Glitch hacks (Release date not confirmed yet)
 #### Triple instead of double speed (To be released March 2019)
 #### Skins hacks* (To be released April 2019)
-#### Nuke after each kill* (To be released April 2019)
+#### Nuke after each kill* (To be released May 2019)
 #### Disables people in your server from having hacks so you are the only one who has them (Release Date not confirmed yet)
 ##### More coming soon!!!
 
