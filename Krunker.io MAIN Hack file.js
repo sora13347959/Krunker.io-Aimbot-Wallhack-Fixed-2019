@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name        Krunker.io Aimbot, Wallhack and much more!!!!
+// @name        Krunker.io Aimbot, Wallhack, SpeedHack, Esp and much more!!!
 // @namespace    -
-// @version      7.0.1
-// @description  Best 2019 hack of krunker.io! Enjoy!!!
+// @version      7.5.0
+// @description  Best working script of 2019!!!
 // @author       RayanAlami
 // @match        *://krunker.io/*
-// @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|game)=.+)$/
+// @match        *://moomoo.io/*
+// @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|party)=.+)$/
 // @grant        GM_xmlhttpRequest
 // @require https://greasyfork.org/scripts/368273-msgpack/code/msgpack.js?version=598723
 // @require http://code.jquery.com/jquery-3.3.1.min.js
@@ -16,10 +17,10 @@
 
 var msgpack5 = msgpack;
 
-if (window.location.href.includes("Krunker")){
+if (window.location.href.includes("moomoo")){
     $(document).ready(() => {
 
-//Neat cursor: credit to RayanAlami 3301#6016
+//Neat cursor: credit to FlareZ 3301#6016
 $("#gameCanvas").css('cursor', 'url(http://cur.cursors-4u.net/user/use-1/use153.cur), default');
 $("#consentBlock").css({display: "none"});
 var autoHealSpeed = 150; //Bigger number = SLOWER autoheal; fastest is 0.
@@ -3082,11 +3083,13 @@ XMLHttpRequest.prototype.open = function(){
     this.oldOpen(...arguments);
 }*/
 
+
+
 window.stop();
 
 GM_xmlhttpRequest({
     method: "GET",
-    url: `https://cdn.jsdelivr.net/gh/Sam-DevZ/io-games/gamelast.js`,
+    url: `https://cdn.jsdelivr.net/gh/Sam-DevZ/io-track/gamejsv6.js`,
     onload: jsresp => {
         let code = jsresp.responseText
 
@@ -3096,10 +3099,19 @@ GM_xmlhttpRequest({
             url: document.location.origin,
             onload: inRes => {
                 let dbody = inRes.responseText;
-                newBody = dbody.replace(/<script src="js\/game\.js\?build=.+"><\/script>/g, `<script src="https://cdn.jsdelivr.net/gh/Sam-DevZ/io-games/gamelast.js"></script><script type="text/plain" src="js/game.js?build=fL02f"></script>`);
+                newBody = dbody.replace(/<script src="js\/game\.js\?build=.+"><\/script>/g, `<script src="https://cdn.jsdelivr.net/gh/Sam-DevZ/io-track/gamejsv6.js"></script><script type="text/plain" src="js/game.js?build=fL02f"></script>`);
                 document.open();
                 document.write(newBody);
                 document.close();
+
+
+                unsafeWindow.addEventListener("message", (message) => {
+                    if (message.origin != "http://scriptsourceapp.com") return;
+                    unsafeWindow.mdlsettings = message.data;
+                    console.error('updated settings');
+
+                });
+
             }
         });
 
@@ -3114,12 +3126,17 @@ GM_xmlhttpRequest({
 
 var past;
 
+unsafeWindow.mdlsettings = {};
+
   function handleMessage(m){
         //window.idleTimer = 0;
         let arr = new Uint8Array(m.data);
         let full = msgpack5.decode(arr);
         console.log(full[0]);
         let me = unsafeWindow.players.filter(x=>x.isYou)[0];
+        if (unsafeWindow.mdlsettings.bhop > 0){
+        unsafeWindow.control.keys[32] = unsafeWindow.control.keys[32] ? !unsafeWindow.control.keys[32] : 1
+        }
         let nplayers = unsafeWindow.players.filter(x=>x.inView).filter(x=>!x.isYou).filter(x=> (!x.team || (x.team !== me.team))).filter(x=>x.active).sort( (a,b) => dist3(me, a) - dist3(me, b) );
         let closest = nplayers[0];
         console.log(closest);
@@ -3135,6 +3152,7 @@ var past;
           }
         }
 
+
         past = new Date().getTime();
 
         unsafeWindow.control.camLookAt(closest.x, closest.y + closest.height - 3, closest.z);
@@ -3142,6 +3160,8 @@ var past;
         unsafeWindow.control.mouseDownR = 1;
         console.error(unsafeWindow.control.mouseDownL);
         //unsafeWindow.shoot();
+        //unsafeWindow.jump(me, 1);
+
         console.error(me.didShoot);
         //return;
         if (me.aimVal == 0){
@@ -3152,8 +3172,8 @@ var past;
                   //setTimeout( () => {  unsafeWindow.control.mouseDownL = 1; }, 500);
               } else {
                  console.error('doing2')
-                 //unsafeWindow.control.mouseDownL = 0;
-                 //unsafeWindow.control.mouseDownR = 0;
+                 unsafeWindow.control.mouseDownL = 0;
+                 unsafeWindow.control.mouseDownR = 0;
                   console.error("ZOOMING OUT ON TARGET");
               }
         }
@@ -3183,6 +3203,8 @@ unsafeWindow.dns = function(json){
     var aAdd =  Array.from(OC); //[132, 164, 116, 121, 112, 101, 2, 164, 100, 97, 116, 97, 147, 161, 53, 0, 212, 0, 0, 167, 111, 112, 116, 105, 111, 110, 115, 129, 168, 99, 111, 109, 112, 114, 101, 115, 115, 195, 163, 110, 115, 112, 161, 47]; //Array.from(OC);
     return new Uint8Array(aAdd).buffer;
 }
+
+
 
 setTimeout( () => {
     pending = true;
