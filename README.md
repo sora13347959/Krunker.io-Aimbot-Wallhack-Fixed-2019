@@ -1,6 +1,6 @@
-# Krunker.io Hack Beta V7.2.0
+# Krunker.io Hack Beta V7.5.0
 
-#### Beta V7.2.0, Updated Feb 21 2019
+#### Beta V7.5.0, Updated Feb 24 2019
 
 ##### Please Scroll down and read through almost everything! (Following me and starring this repository would be helpful)
 
@@ -25,15 +25,14 @@ PLEASE DO NOT FORK THIS, ONLY LOSERS WHO DON'T KNOW HOW TO CODE DO SO, I WANT TO
 If the script given does not work anymore, please wait for a new one to be released and to get the latest updates, Press watch next to the star button and press watching to be notified of the latest krunker.io hack updates.
 
 # Future hacks
+#### Flying - Tricking the spectate system to fly very fast in the sky** (Release Date not confirmed yet)
 #### 360 points even if no 360 if made (Release date not yet confirmed)
 #### KR hack (To be released March 2019)
-#### Glitch hacks (To be released March 2019)
+#### Glitch hacks (Release date not confirmed yet)
 #### Triple instead of double speed (To be released March 2019)
 #### Skins hacks* (To be released April 2019)
-#### PATCH PROOF*** (To be released April 2019)
 #### Nuke after each kill* (To be released April 2019)
-#### Disables people in your server from having hacks so you are the only one who has them (To be Released April 2019)
-#### Stable and Beta versions will be soon so if that one hack is patched, you can use the other one while its fixed (April 2019)
+#### Disables people in your server from having hacks so you are the only one who has them (Release Date not confirmed yet)
 ##### More coming soon!!!
 
 
@@ -44,10 +43,20 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 
 (Krunker.io Fixed 2019 aimbot, wallhack, Bhop, ESP and more!)
 (Krunker.io aimbot FIXED 2019 problem, you can now use aimbot, wallhack, Bhop, ESP and much more)
-
+(Krunker Aimbot)
+(Krunker.io hack)
 
 # Changelog
-## V7.2.0, Updated Feb 21 2019
+## V7.5.0, Updated Feb 24 2019, Supports Krunker V1.0.8
+###### Fixed White screen error
+###### Less lag on high ping
+###### Faster Speed when field of view is set on highest
+###### New Patch proof Beta will keep you from getting banned and will bypass most new versions of krunker.
+###### Some Bugs fixed
+###### SUpports latest version of krunker
+###### Also, Please check every few days for a new version as it might be better and fixes bugs or patch.
+
+## V7.2.0, Updated Feb 21 2019, Supports Krunker V1.0.7
 ###### Advanced Sniper settings
 ###### Advanced hack menu
 ###### Shotgun and Sniper Rifle have better aim
