@@ -47,10 +47,15 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 (Krunker.io hack)
 
 # Changelog
-## V8.0, Updated March 1, Supports Krunker V1.0.9
+## V8.0, Updated March 1 2019, Supports Krunker V1.0.9
 ###### Now tells you what gun the opponent has
 ###### Aimbot Aims better towards headshots
 ###### Fixed High ping move problem
+###### Better Sniper controls
+###### Menu problem partially fixed
+###### Better Aim precision for shotgun
+###### Bhop now Automatic
+###### Some fixed bugs
 
 ## V7.5.0, Updated Feb 24 2019, Supports Krunker V1.0.8
 ###### Fixed White screen error
