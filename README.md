@@ -1,6 +1,6 @@
-# Krunker.io Hack Beta V7.5.0, Supports Krunker V1.0.8
+# Krunker.io Hack Beta V8.0, Supports Krunker V1.0.9
 
-#### Beta V7.5.0, Updated Feb 24 2019
+#### Beta V8.0, Updated March 1 2019
 
 ##### Please Scroll down and read through everything! (Following me and starring this repository would be helpful)
 
@@ -47,6 +47,11 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 (Krunker.io hack)
 
 # Changelog
+## V8.0, Updated March 1, Supports Krunker V1.0.9
+###### Now tells you what gun the opponent has
+###### Aimbot Aims better towards headshots
+###### Fixed High ping move problem
+
 ## V7.5.0, Updated Feb 24 2019, Supports Krunker V1.0.8
 ###### Fixed White screen error
 ###### Less lag on high ping
@@ -75,24 +80,6 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 ###### Bypasses Patch and black loading screen
 ###### Some fixed bugs
 ###### Faster Speed hack
-
-## V6.0.1, Updated Feb 14 2019
-###### Fixed third person issue where third person mode would stay first person when using the hack
-###### Some bugs fixed
-###### Aimbot aiming more for headshots
-###### New section in repository : RayanAlami Electronic News
-###### New Changelog Section
-###### Easier instructions when downloading and loaidng the script
-###### Higher change of quickscope with Sniper/semi-auto
-
-## V6.0, Updated Feb 12 2019
-###### Fixed issue of the loading screen stays forever
-###### Aimbot now aims more for heads
-###### Main menu now appears before you click to play, Some bugs fixed
-
-## V5.90, Updated Feb 5 2019
-###### Quicker speed, 
-###### Some bugs fixed
 
 # Optional if you really like this script:
 
