@@ -1,6 +1,6 @@
-# Krunker.io Hack Beta V8.0, Supports Krunker V1.0.9
+# Krunker.io Hack Beta V8.1.0, Updated March 3 2019, Supports Krunker V1.0.9
 
-#### Beta V8.0, Updated March 1 2019
+#### Beta V8.1.0, Updated March 3 2019
 
 ##### Please Scroll down and read through everything! (Following me and starring this repository would be helpful)
 
@@ -47,6 +47,14 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 (Krunker.io hack)
 
 # Changelog
+## V8.1.0, Updated March 3 2019, Supports Krunker V1.0.9
+###### Now tells you what letters on keyboard to use to change settings
+###### Tells you what gun the opponent has
+###### Menu removed replaced with letters to press to change settings
+###### Better Controls
+###### Aimbot aims better
+###### Some bugs fixed
+
 ## V8.0, Updated March 1 2019, Supports Krunker V1.0.9
 ###### Now tells you what gun the opponent has
 ###### Aimbot Aims better towards headshots
