@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Krunker.io Aimbot, Wallhack, Speedhack, ESP and more!!!
 // @namespace    -
-// @version      8.0
+// @version      8.1.l0
 // @description  Best working krunker hack of 2019
 // @author       RayanAlami
 // @match        *://krunker.io/*
@@ -10,6 +10,8 @@
 // @grant        GM_xmlhttpRequest
 // @run-at       document-start
 // ==/UserScript=
+
+>>>>>>>>>>>>> DEMO VERSION FOR GITHUB PUBLIC SCRIPT ONLY, DOWNLOAD FROM LINK IN MAIN PAGE TOGET FULL WORKING HACK <<<<<<<<<<<<<
 var CORESTATE = {
 		inwater: {active: false},
 		nearenemy: {active: false},
