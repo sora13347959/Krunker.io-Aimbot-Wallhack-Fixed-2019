@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Krunker.io Aimbot, Wallhack, Speedhack, ESP and more!!!
 // @namespace    -
-// @version      8.1.l0
+// @version      8.1.0
 // @description  Best working krunker hack of 2019
 // @author       RayanAlami
 // @match        *://krunker.io/*
