@@ -48,7 +48,7 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 (Krunker.io hack)
 
 # Changelog
-## V8.2.0, Updated March 7 2019, Supports Latest version
+## V8.2.0, Updated March 7 2019
 ###### Better RPG Aim
 ###### Better Revolver aim
 ###### More controls
@@ -56,7 +56,7 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 ###### Some Bugs fixed
 ###### Using Adblock on your browser will make hack run faster
 
-## V8.1.0, Updated March 3 2019, Supports Krunker V1.0.9
+## V8.1.0, Updated March 3 2019
 ###### Now tells you what letters on keyboard to use to change settings
 ###### Tells you what gun the opponent has
 ###### Menu removed replaced with letters to press to change settings
@@ -64,7 +64,7 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 ###### Aimbot aims better
 ###### Some bugs fixed
 
-## V8.0, Updated March 1 2019, Supports Krunker V1.0.9
+## V8.0, Updated March 1 2019
 ###### Now tells you what gun the opponent has
 ###### Aimbot Aims better towards headshots
 ###### Fixed High ping move problem
@@ -74,7 +74,7 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 ###### Bhop now Automatic
 ###### Some fixed bugs
 
-## V7.5.0, Updated Feb 24 2019, Supports Krunker V1.0.8
+## V7.5.0, Updated Feb 24 2019
 ###### Fixed White screen error
 ###### Less lag on high ping
 ###### Faster Speed when field of view is set on highest
@@ -83,7 +83,7 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 ###### Supports krunker V1.0.8
 ###### Also, Please check every few days for a new version as it might be better and fixes bugs or patch.
 
-## V7.2.0, Updated Feb 21 2019, Supports Krunker V1.0.7
+## V7.2.0, Updated Feb 21 2019
 ###### Advanced Sniper settings
 ###### Advanced hack menu
 ###### Shotgun and Sniper Rifle have better aim
