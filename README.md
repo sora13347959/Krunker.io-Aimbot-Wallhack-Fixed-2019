@@ -27,12 +27,13 @@ If the script given does not work anymore, please wait for a new one to be relea
 #### One-shot Kill (Release date not confirmed yet)
 #### Flying - Tricking the spectate system to fly very fast in the sky** (Release Date not confirmed yet)
 #### 360 points even if no 360 if made (Release date not yet confirmed)
-#### KR hack (To be released March 2019)
+#### KR hack (Release date not confirmed yet)
 #### Glitch hacks (Release date not confirmed yet)
 #### Triple instead of double speed (To be released March 2019)
 #### Skins hacks* (To be released April 2019)
 #### Nuke after each kill* (To be released May 2019)
 #### Disables people in your server from having hacks so you are the only one who has them (Release Date not confirmed yet)
+#### Patch Proof*** (To be released April 2019)
 ##### More coming soon!!!
 
 
@@ -48,9 +49,12 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 
 # Changelog
 ## V8.2.0, Updated March 7 2019, Supports Latest version
-###### Bugs fixed
-###### Better Aim
+###### Better RPG Aim
+###### Better Revolver aim
 ###### More controls
+###### info : Sniper is best for this version of hack!
+###### Some Bugs fixed
+###### Using Adblock on your browser will make hack run faster
 
 ## V8.1.0, Updated March 3 2019, Supports Krunker V1.0.9
 ###### Now tells you what letters on keyboard to use to change settings
