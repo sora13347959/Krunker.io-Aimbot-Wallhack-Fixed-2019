@@ -18,10 +18,8 @@ If you run into a tab called Cross-origine Source, Press always allow and you wi
 # IMPORTANT FOR THE HACK MENU
 The hack menu will not apear until you press 'click to play' and a popup will open for the settings, do not quit the pop-up as for now it is the only way to control the hack, this extension also supports moomoo.io as both games are made by the same developer and this will turn into a double compatible extension. If the hack menu doesn't work then please tel me this in The issues tab. 
 
-# More Notices
-PLEASE DO NOT FORK THIS, ONLY LOSERS WHO DON'T KNOW HOW TO CODE DO SO, I WANT TO WORK ON IT BY MYSELF!! PLS PLS PLS.
-
-If the script given does not work anymore, please wait for a new one to be released and to get the latest updates, Press watch next to the star button and press watching to be notified of the latest krunker.io hack updates.
+# Wanna join creating hacks?
+If you want to join, you know how to code and can hack .io games, press fork on the top and then when your hack is ready, Create an issue titled 'Script fork improvements' and tell me the improvements you made and give me the link to the script and your hack will be tested out and if it works and is approved, you will be one of teh authors on the script. You name will be added to 'authors' in the script and you will be mentioned in this README script as a participated author.
 
 # Future hacks
 #### One-shot Kill (Release date not confirmed yet)
