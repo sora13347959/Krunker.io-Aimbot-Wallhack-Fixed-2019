@@ -1,6 +1,6 @@
-# Krunker.io Hack Beta V8.1.0, Updated March 3 2019, Supports Krunker V1.0.9
+# Krunker.io Hack Beta V8.2.0, Updated March 7 2019, Supports Krunker V1.0.9
 
-#### Beta V8.1.0, Updated March 3 2019
+#### Beta V8.2.0, Updated March 7 2019
 
 ##### Please Scroll down and read through everything! (Following me and starring this repository would be helpful)
 
