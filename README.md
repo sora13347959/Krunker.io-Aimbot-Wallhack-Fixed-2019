@@ -13,7 +13,7 @@ Download Tampermonkey from the chrome web store and then press on the link below
 Do not press the install button if you do not have Tampermonkey extension.
 If you run into a tab called Cross-origine Source, Press always allow and you will be redirected to krunker.io and the hack will work.
 
-Press here to install : https://greasyfork.org/scripts/377516-krunker-io-aimbot-wallhack-2019-fixed-and-more/code/Krunkerio%20aimbot,%20wallhack,%202019%20fixed,%20and%20more!!!.user.js
+Press here to install : PLEASE WAIT A FEW HOURS, WILL BE RELEASED MARCH 7
 
 # IMPORTANT FOR THE HACK MENU
 The hack menu will not apear until you press 'click to play' and a popup will open for the settings, do not quit the pop-up as for now it is the only way to control the hack, this extension also supports moomoo.io as both games are made by the same developer and this will turn into a double compatible extension. If the hack menu doesn't work then please tel me this in The issues tab. 
