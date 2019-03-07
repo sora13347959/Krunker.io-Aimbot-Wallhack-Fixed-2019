@@ -47,6 +47,11 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 (Krunker.io hack)
 
 # Changelog
+## V8.2.0, Updated March 7 2019, Supports Latest version
+###### Bugs fixed
+###### Better Aim
+###### More controls
+
 ## V8.1.0, Updated March 3 2019, Supports Krunker V1.0.9
 ###### Now tells you what letters on keyboard to use to change settings
 ###### Tells you what gun the opponent has
