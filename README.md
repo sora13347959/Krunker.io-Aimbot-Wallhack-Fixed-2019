@@ -4,10 +4,7 @@
 
 ##### Please Scroll down and read through everything! (Following me and starring this repository would be helpful)
 
-PLEASE STAR THIS REPOSITORY!!! Updates are released after every krunker update or improvements to be intergrated
-
 # Instructions
-
 ###### Requirements: Tampermonkey
 Download Tampermonkey from the chrome web store and then press on the link below to install the script.
 Do not press the install button if you do not have Tampermonkey extension.
