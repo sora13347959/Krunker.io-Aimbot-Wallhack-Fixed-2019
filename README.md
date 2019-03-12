@@ -15,6 +15,9 @@ If you run into a tab called Cross-origine Source, Press always allow and you wi
 
 #### Press here to install : https://greasyfork.org/scripts/379368-hacks-for-krunker-aimbot-wallhack-and-more/code/Hacks%20for%20krunker%20:%20Aimbot,%20Wallhack%20and%20more!!!.user.js
 
+# Script detected?
+This might happen sometimes because of an update to the game, but don't worry, go to the issues tab and create an issue telling me about this and come back the next day to see if the hack got fixed and is usually fixed in 1-2 days. 
+
 # IMPORTANT FOR THE HACK MENU
 The hack menu will not apear until you press 'click to play' and a popup will open for the settings, do not quit the pop-up as for now it is the only way to control the hack, this extension also supports moomoo.io as both games are made by the same developer and this will turn into a double compatible extension. If the hack menu doesn't work then please tel me this in The issues tab. 
 
