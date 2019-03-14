@@ -1,0 +1,33 @@
+// ==UserScript==
+// @name         Krunker.io multihack
+// @description  Krunker with Control panel
+// @version      1.0
+// @author       Sportshot
+// @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(game|server|party)=.+)$/
+// @grant        GM_xmlhttpRequest
+// @run-at       document-start
+// @require      https://code.jquery.com/jquery-3.3.1.min.js
+// @namespace    shadowqwert
+// ==/UserScript==
+
+window.stop();
+document.innerHTML = "";
+
+GM_xmlhttpRequest({
+    method: "GET",
+    url: document.location.origin,
+    onload: res => {
+        let html = res.responseText;
+
+        let injectScript = '<script src="https://raw.githack.com/gpy-dev/krunker/master/hax.js?b=2.3"></script>';
+        injectScript += '<script src="https://raw.githack.com/gpy-dev/krunker/master/game.js"></script>';
+
+        html = html.replace(/<script src="libs\/zip-ext.js\?\w+=\w+"><\/script>/, '<script src="https://raw.githack.com/gpy-dev/krunker/master/zip-ext.js"></script>'); //prevent disconnected issue
+        html = html.replace(/<script src="js\/game\.js\?\w+=\w+"><\/script>/, injectScript);
+
+        document.open();
+        document.write(html);
+        document.close();
+    }
+} )
+
